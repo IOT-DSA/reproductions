@@ -1,0 +1,8 @@
+/storage
+pubspec.lock
+packages
+.packages
+.idea
+.pub
+tmp
+.dslink.key
